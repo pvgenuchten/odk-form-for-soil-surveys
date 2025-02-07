@@ -14,13 +14,17 @@ ODK in combination with this configuration is endorsed by [ISRIC - World Soil In
 
 ## Manuals
 
-The vaious [manuals](./docs) describe how to use the tooling for data scientists, field surveyers and administrators.
+The various [manuals](./docs) describe how to use the tooling for data scientists, field surveyers and administrators.
 
 ## Configuration
 
-The Form configuration is in the Excel format. The latest release is available [here](./releases.)
+The Form configuration is in the Excel format. The latest release is available [here](../../releases).
+
+## Codelists
+
+The repository is also used to maintain a number of [codelists](./codelists), which are derived from [World Reference Base - Fieldguide](https://github.com/iuss-wrb/wrb) and are used in the forms. 
 
 ## Contribute
 
 The tool is managed as an Open Source Software project, managed by [ISRIC - World Soil Information](https://isric.org). 
-We welcome your ideas and contributions via [issues](./issues).
+We welcome your ideas and contributions via [issues](../../issues).
