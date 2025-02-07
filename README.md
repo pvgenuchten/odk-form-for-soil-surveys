@@ -1,6 +1,6 @@
 # ODK form for Soil Surveys
 
-The repository contains a template form configuration, to turn Open Data Kit app into a Field Soil Survey tool.
+The repository contains a template form configuration, to turn [ODK Collect](https://play.google.com/store/apps/details?id=org.odk.collect.android&hl=en) into a Field Soil Survey tool.
 
 ## Open Data Kit
 
@@ -19,3 +19,8 @@ The vaious [manuals](./docs) describe how to use the tooling for data scientists
 ## Configuration
 
 The Form configuration is in the Excel format. The latest release is available [here](./releases.)
+
+## Contribute
+
+The tool is managed as an Open Source Software project, managed by [ISRIC - World Soil Information](https://isric.org). 
+We welcome your ideas and contributions via [issues](./issues).
